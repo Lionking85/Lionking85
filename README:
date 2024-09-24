@@ -1,1 +1,2 @@
 adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
+android:name="com.android.server.uwb.intent.action.SERVICE_UWB_RESOURCES_APK">
